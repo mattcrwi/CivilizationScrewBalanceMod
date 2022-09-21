@@ -6,12 +6,17 @@
     <Guid>261ee3e6-06b6-48f1-a440-d2fda4aa82d3</Guid>
     <ProjectGuid>fa897dd1-ae53-4c44-98ae-2cf282b126cc</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>This is a mod to balance points scoring and work ethic around having a time limited game where points leader is the winner at t</Teaser>
-    <Description>This is a mod to balance points scoring and work ethic around having a time limited game where points leader is the winner at the end.</Description>
-    <Authors>Matt</Authors>
+    <Teaser>Balance mod for points scoring</Teaser>
+    <Description>This is a mod to balance points scoring around having a time limited game where points leader is the winner at the end.
+
+Features:
+- Wonders are worth 8 points instead of 15
+
+Version 1.0</Description>
+    <Authors>Matthew Williams</Authors>
     <SpecialThanks>
     </SpecialThanks>
-    <AffectsSavedGames>true</AffectsSavedGames>
+    <AffectsSavedGames>false</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
     <SupportsHotSeat>true</SupportsHotSeat>

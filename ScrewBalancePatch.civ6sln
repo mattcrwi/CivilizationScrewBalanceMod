@@ -12,6 +12,7 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FA897DD1-AE53-4C44-98AE-2CF282B126CC}.Default|Civ6.ActiveCfg = Default|Civ6
 		{FA897DD1-AE53-4C44-98AE-2CF282B126CC}.Default|Civ6.Build.0 = Default|Civ6
+		{FA897DD1-AE53-4C44-98AE-2CF282B126CC}.Default|Civ6.Deploy.0 = Default|Civ6
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
